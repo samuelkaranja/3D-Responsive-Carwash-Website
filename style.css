@@ -177,6 +177,15 @@
 	padding: 50px;
 }
 
+.footer .info{
+	padding-top: 20px;
+}
+
+.footer .info a{
+	text-decoration: none;
+	color: #fff;
+}
+
 
 
 
