@@ -4,7 +4,7 @@
 	font-family: 'Poppins', sans-serif;
 }
 
-/*Header*/
+/*---------Header----------*/
 
 .header .content-box{
 	background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url("car.jpg");
@@ -18,7 +18,7 @@
 
 .banner-text{
 	text-align: center;
-	padding-top: 280px;
+	padding-top: 200px;
 }
 
 .banner-text h2{
@@ -54,7 +54,35 @@
 	border: none;
 }
 
-/*Services*/
+/*----------Subscribe-----------*/
+
+.subscribe{
+	background: darkslateblue;
+}
+
+.subscribe p{
+	font-size: 35px;
+	padding-top: 22px;
+	color: #fff;
+}
+
+.subscribe input{
+	width: 50%;
+	border: none;
+	padding: 8px;
+	margin-top: 25px;
+}
+
+.subscribe button{
+	background: orangered;
+	border: none;
+	color: #fff;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+
+/*-------------Services----------*/
 
 .content-box{
 	background: #dcdcdc;
@@ -185,21 +213,3 @@
 	text-decoration: none;
 	color: #fff;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
